@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pedro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pedro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pedro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pedro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+G:\Análise e Desenvolvimento de Sistemas\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
